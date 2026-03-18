@@ -7,7 +7,7 @@ NUAA工科生，人工智能爱好者（NUAA's engineering student and AI enthus
 热衷于代写作业，人工智能，教育事业，ACG，以及blender动画制作，现在困于学业危机(Passionate about ghostwriting, artificial intelligence, education, ACG, and blender animation, he is now stuck in an academic crisis)
 
 * 🌍  I'm based in NanJing
-* ✉️  You can contact me at [1119864217@qq.com](mailto:1119864217@qq.com)
+* ✉️  You can contact me at [1119864217@qq.com](mailto:1119864217@qq.com),qq小号(工作专用)：3999485702
 * 🧠  I'm currently learning pytorch
 * 👥  I'm looking to collaborate on anything
 
