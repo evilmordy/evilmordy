@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 NUAA工科生，人工智能爱好者（NUAA's engineering student and AI enthusiast）
 -------------------------------------------------------------
-
-热衷于代写作业，人工智能，教育事业，ACG，以及blender动画制作，现在困于学业危机(Passionate about ghostwriting, artificial intelligence, education, ACG, and blender animation, he is now stuck in an academic crisis)
+nuaa大三在读，主方向为计算机视觉，YOLO，机器学习等。在学
 
 * 🌍  I'm based in NanJing
 * ✉️  You can contact me at [1119864217@qq.com](mailto:1119864217@qq.com),qq小号(工作专用)：3999485702
